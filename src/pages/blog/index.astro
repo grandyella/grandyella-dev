@@ -15,62 +15,24 @@ const posts = (await getCollection('blog')).sort(
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-		<style>
-			main {
-				max-width: 680px;
-				margin: 0 auto;
-				padding: 2rem 1rem;
-			}
-			ul {
-				list-style: none;
-				margin: 0;
-				padding: 0;
-			}
-			ul li {
-				padding: 1.4rem 0;
-				border-bottom: 1px solid #eee;
-			}
-			ul li:last-child {
-				border-bottom: none;
-			}
-			ul li a {
-				text-decoration: none;
-				color: inherit;
-				display: block;
-			}
-			ul li a:hover h4 {
-				text-decoration: underline;
-			}
-			.meta {
-				font-size: 0.82rem;
-				color: #999;
-				margin: 0 0 0.3rem;
-			}
-			h4 {
-				margin: 0 0 0.3rem;
-				font-size: 1.1rem;
-				color: #111;
-			}
-			.desc {
-				font-size: 0.9rem;
-				color: #666;
-				margin: 0;
-			}
-		</style>
 	</head>
 	<body>
 		<Header />
-		<main>
-			<ul>
+		<main class="max-w-4xl mx-auto px-12 py-12">
+			<ul class="divide-y divide-gray-100">
 				{
-					posts.map((post, index) => (
-						<li>
-							<a href={`/blog/${post.id}/`}>
-								<p class="meta">
-									{index + 1} &nbsp;·&nbsp; <FormattedDate date={post.data.pubDate} />
+					posts.map((post) => (
+						<li class="py-6">
+							<a href={`/blog/${post.id}/`} class="block group">
+								<p class="text-sm text-gray-400 mb-1">
+									<FormattedDate date={post.data.pubDate} />
 								</p>
-								<h4>{post.data.title}</h4>
-								<p class="desc">{post.data.description}</p>
+								<h4 class="text-lg font-semibold text-gray-900 group-hover:underline mb-1">
+									{post.data.title}
+								</h4>
+								<p class="text-sm text-gray-500">
+									{post.data.description}
+								</p>
 							</a>
 						</li>
 					))

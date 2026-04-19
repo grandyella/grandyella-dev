@@ -1,34 +1,45 @@
 ---
-import Layout from '../layouts/BlogPost.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
 ---
 
-<Layout
-	title="About"
-	description="Tentang Zul"
-	pubDate={new Date('April 2026')}
->
-	<p>Gue Zul.<br/>
-	Kerja di IT, background-nya finance.<br/>
-	Somehow di tengah itu semua jadi suka ngulik data —<br/>
-	bikin tools kecil-kecilan, automasi hal yang males-malesin,<br/>
-	sekarang lagi coba yang lebih serius.</p>
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title="About" description="Tentang Zul" />
+	</head>
+	<body>
+		<Header />
+		<main class="max-w-4xl mx-auto px-12 py-16">
+			<h1 class="text-4xl font-bold mb-10 text-gray-900">About</h1>
+			<div class="text-lg leading-relaxed space-y-6 text-gray-600 max-w-xl">
+				<p>Gue Zul.<br/>
+				Kerja di IT, background-nya finance.<br/>
+				Somehow di tengah itu semua jadi suka ngulik data —<br/>
+				bikin tools kecil-kecilan, automasi hal yang males-malesin,<br/>
+				sekarang lagi coba yang lebih serius.</p>
 
-	<p>Punya homelab sendiri di rumah.<br/>
-	Belajar sambil bikin sesuatu yang beneran kepake.<br/>
-	Prosesnya gue tulis di sini biar ada jejaknya.</p>
+				<p>Punya homelab sendiri di rumah.<br/>
+				Belajar sambil bikin sesuatu yang beneran kepake.<br/>
+				Prosesnya gue tulis di sini biar ada jejaknya.</p>
 
-	<p>Tulisan di sini campur-campur.<br/>
-	Kadang teknis, kadang random, kadang terlalu jujur.<br/>
-	Tidak ada tema khusus sebenernya —<br/>
-	nulis apa yang lagi ada di kepala.</p>
+				<p>Tulisan di sini campur-campur.<br/>
+				Kadang teknis, kadang random, kadang terlalu jujur.<br/>
+				Tidak ada tema khusus sebenernya —<br/>
+				nulis apa yang lagi ada di kepala.</p>
 
-	<p>Orangnya gampang kebawa rabbit hole,<br/>
-	susah fokus kalau lagi tidak mood,<br/>
-	sering overthinking hal yang tidak penting,<br/>
-	tapi somehow hal-hal tetep kelar juga.</p>
+				<p>Orangnya gampang kebawa rabbit hole,<br/>
+				susah fokus kalau lagi tidak mood,<br/>
+				sering overthinking hal yang tidak penting,<br/>
+				tapi somehow hal-hal tetep kelar juga.</p>
 
-	<p>Kalau mau ngobrol atau diskusi sesuatu,<br/>
-	<a href="mailto:zulfikahmad@gmail.com">zulfikahmad@gmail.com</a> atau
-	<a href="https://linkedin.com/in/ahmadzulfikartanjung">LinkedIn</a>.<br/>
-	</p>
-</Layout>
+				<p>Kalau mau ngobrol,<br/>
+				<a href="mailto:zulfikahmad@gmail.com" class="text-gray-900 underline hover:text-gray-500">zulfikahmad@gmail.com</a> atau
+				<a href="https://linkedin.com/in/ahmadzulfikartanjung" class="text-gray-900 underline hover:text-gray-500">LinkedIn</a>.
+				</p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
