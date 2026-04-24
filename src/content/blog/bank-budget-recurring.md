@@ -1,6 +1,6 @@
 ---
 title: "Fitur Lengkap Money Tracker Bot: Bank, Budget, dan Recurring Transaction"
-date: 2026-04-24
+date: 2026-04-23
 description: "Dari bot sederhana catat pengeluaran, ke sistem keuangan yang track saldo per rekening, kasih warning budget, dan catat transaksi rutin otomatis."
 tags: ["python", "telegram", "bot", "personal-finance", "postgresql"]
 ---
@@ -11,9 +11,9 @@ Versi pertama bot ini cuma bisa satu hal — catat pengeluaran. Ketik angka, pil
 
 Tapi makin lama dipakai, makin banyak pertanyaan yang muncul:
 
-*"Uang ini keluar dari rekening mana?"*
-*"Bulan ini udah habis berapa untuk makan?"*
-*"Netflix tiap bulan harus input manual terus?"*
+_"Uang ini keluar dari rekening mana?"_
+_"Bulan ini udah habis berapa untuk makan?"_
+_"Netflix tiap bulan harus input manual terus?"_
 
 Tiga pertanyaan itu yang akhirnya jadi tiga fitur besar di iterasi berikutnya — **Bank Management**, **Budget Limit**, dan **Recurring Transaction**.
 

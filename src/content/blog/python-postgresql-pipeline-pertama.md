@@ -1,7 +1,7 @@
 ---
-title: 'Pipeline pertama jalan — dari Telegram ke database'
-description: 'Pertama kalinya data tersimpan beneran, bukan cuma di memory.'
-pubDate: 'Apr 18 2026 12:00:00'
+title: "Pipeline pertama jalan — dari Telegram ke database"
+description: "Pertama kalinya data tersimpan beneran, bukan cuma di memory."
+pubDate: "Apr 18 2026 12:00:00"
 ---
 
 Ada satu momen yang bikin beda antara

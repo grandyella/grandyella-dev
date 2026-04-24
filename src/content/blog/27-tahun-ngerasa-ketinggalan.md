@@ -1,6 +1,6 @@
 ---
 title: "27 Tahun, Masih Ngerasa Ketinggalan — dan Itu Mungkin Wajar"
-date: 2026-04-24
+date: 2026-04-20
 description: "Cerita jujur soal switch karir, gap antara ekspektasi dan realita, dan pertanyaan yang sering muncul di kepala: gue udah ngapain aja?"
 tags: ["personal", "karir", "refleksi", "self-improvement"]
 ---
@@ -15,7 +15,7 @@ Gue nulis ini justru karena belum.
 
 Ada satu momen yang gue inget jelas. Bukan momen dramatis — nggak ada hujan, nggak ada lagu sedih. Gue cuma lagi scroll LinkedIn, lihat orang-orang seumur gue yang udah jadi Senior Data Engineer, udah lulus S2 di luar negeri, udah punya portofolio yang bikin gue minder duluan sebelum baca isinya.
 
-Dan gue duduk di sana, mikir: *gue udah ngapain aja?*
+Dan gue duduk di sana, mikir: _gue udah ngapain aja?_
 
 Pertanyaan itu lebih sakit dari yang kelihatannya. Bukan karena gue nggak ngapa-ngapain — gue kerja, gue belajar, gue coba. Tapi ada gap antara di mana gue sekarang dan di mana gue pikir gue harusnya berada di umur ini. Dan gap itu terasa lebar banget di momen-momen tertentu.
 
@@ -44,7 +44,7 @@ Gue pertama kali kenal coding tahun 2017. Artinya udah hampir satu dekade. Dan g
 
 Ikut bootcamp ini, nggak nempel. Coba tutorial itu, setengah jalan berhenti. Buka course lagi, excited di awal, hilang di tengah. Ada sesuatu yang selalu nggak nyambung antara gue dan kode — sampai gue nggak tahu lagi apakah masalahnya di cara belajar gue, atau emang gue yang nggak berbakat.
 
-*Andai dulu difokusin.*
+_Andai dulu difokusin._
 
 Kalimat itu sering banget muncul di kepala gue. Andai dulu nggak terdistraksi. Andai dulu milih jurusan yang lebih relevan. Andai dulu, andai dulu, andai dulu.
 
@@ -84,7 +84,7 @@ Ketertinggalan itu nyata. Tapi itu bukan satu-satunya variabel.
 
 Di tengah semua uncertainty itu, ada satu hal yang gue pegang:
 
-*Gue bergerak.*
+_Gue bergerak._
 
 Mungkin pelan. Mungkin nggak seefisien orang lain. Mungkin masih banyak yang salah dan harus diulang. Tapi gue bergerak.
 
@@ -94,7 +94,7 @@ Dan mungkin itu cukup untuk sekarang — bukan untuk berhenti di sini, tapi untu
 
 ---
 
-*Kalau kamu lagi di posisi yang mirip — ngerasa ketinggalan, ngerasa belum cukup, ngerasa terlambat — gue nggak punya kata-kata ajaib. Tapi setidaknya kamu tahu kamu nggak sendirian.*
+_Kalau kamu lagi di posisi yang mirip — ngerasa ketinggalan, ngerasa belum cukup, ngerasa terlambat — gue nggak punya kata-kata ajaib. Tapi setidaknya kamu tahu kamu nggak sendirian._
 
 ---
 

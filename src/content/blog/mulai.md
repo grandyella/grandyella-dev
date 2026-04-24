@@ -1,8 +1,7 @@
 ---
-title: 'Mulai.'
-description: 'Post pertama. Gak tau mau nulis apa.'
-pubDate: 'Apr 17 2026 08:00:00'
-
+title: "Mulai."
+description: "Post pertama. Gak tau mau nulis apa."
+pubDate: "Apr 17 2026 08:00:00"
 ---
 
 Ini post pertama.

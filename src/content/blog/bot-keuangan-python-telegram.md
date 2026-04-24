@@ -1,6 +1,6 @@
 ---
 title: "Dari Keresahan Jadi Kode: Bikin Bot Keuangan Pribadi dengan Python & Telegram"
-date: 2026-04-24
+date: 2026-04-21
 description: "Cerita di balik Grandyella Money Tracker — dari frustrasi lihat saldo habis tanpa jejak, sampai bot Telegram yang jalan 24 jam di homelab sendiri."
 tags: ["python", "telegram", "postgresql", "homelab", "personal-finance"]
 ---
@@ -20,6 +20,7 @@ Terus gue mikir — gue kan lagi belajar Python. Kenapa nggak bikin sendiri?
 ## Apa yang Mau Dibangun
 
 Kriterianya simpel:
+
 - Input cepat — nggak mau buka app khusus, cukup dari Telegram yang udah always open
 - Data gue sendiri — disimpan di server sendiri di rumah
 - Bisa lihat summary — kemana aja uang gue bulan ini
@@ -133,6 +134,7 @@ Kedua — `options="-c timezone=Asia/Jakarta"` — ini yang bikin semua query ot
 Bot punya dua cara input yang gue desain untuk kecepatan:
 
 **Flow A — Ketik langsung:**
+
 ```
 User: 50000 makan siang
 Bot:  💰 Rp 50.000 — makan siang
@@ -144,6 +146,7 @@ Bot:  ✅ Tercatat!
 ```
 
 **Flow B — Lewat tombol:**
+
 ```
 User: klik 💸 Keluar
 Bot:  Berapa jumlahnya?
@@ -224,7 +227,7 @@ Tapi untuk sekarang, tujuan awal sudah tercapai — gue tahu kemana aja uang gue
 
 ---
 
-*Reach out via LinkedIn atau website kalau mau ngobrol lebih lanjut.*
+_Reach out via LinkedIn atau website kalau mau ngobrol lebih lanjut._
 
 🌐 [grandyella-dev.vercel.app](https://grandyella-dev.vercel.app)
 💼 [linkedin.com/in/ahmadzulfikartanjung](https://linkedin.com/in/ahmadzulfikartanjung)

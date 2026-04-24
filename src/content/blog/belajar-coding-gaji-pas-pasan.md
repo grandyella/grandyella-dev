@@ -67,7 +67,7 @@ Beberapa hal yang gue pelajari soal belajar dengan resource terbatas:
 
 S2 masih ada di list gue. Sertifikasi juga. Tapi gue belajar untuk tidak menjadikan hal-hal itu sebagai prasyarat untuk mulai.
 
-Dulu gue pikir: *kalau udah S2, baru bisa apply ke posisi yang gue mau.* Atau: *kalau udah ikut bootcamp ini, baru bisa bikin project yang proper.*
+Dulu gue pikir: _kalau udah S2, baru bisa apply ke posisi yang gue mau._ Atau: _kalau udah ikut bootcamp ini, baru bisa bikin project yang proper._
 
 Itu cara pikir yang bikin gue stuck.
 
@@ -85,7 +85,7 @@ Yang penting: tetap jalan.
 
 ---
 
-*Tools yang gue pakai di project ini semuanya gratis dan open source — Python, PostgreSQL, Docker, Metabase, Telegram Bot API. Kalau kamu mau mulai project serupa dengan budget minimal, semua yang kamu butuhkan sudah tersedia.*
+_Tools yang gue pakai di project ini semuanya gratis dan open source — Python, PostgreSQL, Docker, Metabase, Telegram Bot API. Kalau kamu mau mulai project serupa dengan budget minimal, semua yang kamu butuhkan sudah tersedia._
 
 ---
 

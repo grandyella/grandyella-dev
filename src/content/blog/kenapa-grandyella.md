@@ -1,8 +1,7 @@
 ---
-title: 'Kenapa Grandyella Tracker?'
-description: 'Awal mula ide dan brainstorming project ini.'
-pubDate: 'Apr 17 2026 09:00:00'
-
+title: "Kenapa Grandyella Tracker?"
+description: "Awal mula ide dan brainstorming project ini."
+pubDate: "Apr 17 2026 09:00:00"
 ---
 
 Jadi gini ceritanya.

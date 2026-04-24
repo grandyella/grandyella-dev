@@ -1,7 +1,7 @@
 ---
-title: 'Python pertama: Dictionary, Function, dan kenapa gue salah paham soal []'
-description: 'Belajar hal yang kedengarannya simpel tapi ternyata ada nuansanya.'
-pubDate: 'Apr 18 2026 11:00:00'
+title: "Python pertama: Dictionary, Function, dan kenapa gue salah paham soal []"
+description: "Belajar hal yang kedengarannya simpel tapi ternyata ada nuansanya."
+pubDate: "Apr 18 2026 11:00:00"
 ---
 
 Gue udah tau Variable, List, sama Loop.
@@ -101,6 +101,7 @@ Di bot yang beneran, ini artinya semua user
 kena dampaknya — bukan cuma yang salah input.
 
 Jadi tambah validasi:
+
 - Cek dulu apakah ada minimal 3 bagian
 - Cek apakah bagian kedua itu angka
 - Kalau tidak, return pesan error — jangan crash
@@ -114,7 +115,7 @@ data salah masuk lebih dalam ke sistem.
 
 ---
 
-Satu lagi yang gue pelajari hari ini: if __name__ == "__main__".
+Satu lagi yang gue pelajari hari ini: if **name** == "**main**".
 
 Ini standar Python yang gue sering lihat tapi
 gak pernah beneran ngerti gunanya sampai sekarang.
@@ -125,7 +126,7 @@ Output-nya berantakan — campur aduk antara
 output file yang diimport sama file utama.
 
 Solusinya: bungkus semua kode test di dalam blok
-if __name__ == "__main__". Blok itu cuma jalan
+if **name** == "**main**". Blok itu cuma jalan
 kalau file dieksekusi langsung — gak jalan kalau diimport.
 
 Sekarang import bersih, output bersih.

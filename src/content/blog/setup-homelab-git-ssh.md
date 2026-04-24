@@ -1,7 +1,7 @@
 ---
-title: 'Hari pertama: Gitea mati, SSH berantakan, tapi somehow kelar'
-description: 'Setup environment dari nol — lebih ribet dari yang gue kira.'
-pubDate: 'Apr 18 2026 10:00:00'
+title: "Hari pertama: Gitea mati, SSH berantakan, tapi somehow kelar"
+description: "Setup environment dari nol — lebih ribet dari yang gue kira."
+pubDate: "Apr 18 2026 10:00:00"
 ---
 
 Gue pikir hari pertama bakal langsung coding.
