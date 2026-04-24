@@ -1,6 +1,6 @@
 ---
 title: "27 Tahun, Masih Ngerasa Ketinggalan — dan Itu Mungkin Wajar"
-date: 2026-04-20
+pubDate: 2026-04-20
 description: "Cerita jujur soal switch karir, gap antara ekspektasi dan realita, dan pertanyaan yang sering muncul di kepala: gue udah ngapain aja?"
 tags: ["personal", "karir", "refleksi", "self-improvement"]
 ---

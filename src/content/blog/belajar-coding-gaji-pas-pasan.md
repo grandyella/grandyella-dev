@@ -1,6 +1,6 @@
 ---
 title: "Belajar Coding di Tengah Gaji Pas-pasan dan Mimpi yang Mahal"
-date: 2026-04-24
+pubDate: 2026-04-24
 description: "S2, bootcamp, sertifikasi — semua butuh uang. Tapi keterbatasan finansial bukan alasan untuk berhenti. Ini cara gue navigating belajar dengan resource terbatas."
 tags: ["personal", "belajar", "karir", "refleksi", "coding"]
 ---

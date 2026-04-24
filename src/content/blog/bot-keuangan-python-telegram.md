@@ -1,6 +1,6 @@
 ---
 title: "Dari Keresahan Jadi Kode: Bikin Bot Keuangan Pribadi dengan Python & Telegram"
-date: 2026-04-21
+pubDate: 2026-04-21
 description: "Cerita di balik Grandyella Money Tracker — dari frustrasi lihat saldo habis tanpa jejak, sampai bot Telegram yang jalan 24 jam di homelab sendiri."
 tags: ["python", "telegram", "postgresql", "homelab", "personal-finance"]
 ---

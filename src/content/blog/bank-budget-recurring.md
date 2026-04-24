@@ -1,6 +1,6 @@
 ---
 title: "Fitur Lengkap Money Tracker Bot: Bank, Budget, dan Recurring Transaction"
-date: 2026-04-23
+pubDate: 2026-04-23
 description: "Dari bot sederhana catat pengeluaran, ke sistem keuangan yang track saldo per rekening, kasih warning budget, dan catat transaksi rutin otomatis."
 tags: ["python", "telegram", "bot", "personal-finance", "postgresql"]
 ---

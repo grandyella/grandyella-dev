@@ -1,6 +1,6 @@
 ---
 title: "Personal Finance Dashboard dengan Metabase & PostgreSQL"
-date: 2026-04-24
+pubDate: 2026-04-24
 description: "Data sudah terkumpul di PostgreSQL — sekarang gimana cara lihatnya secara visual tanpa keluar uang? Jawaban: Metabase yang sudah ada di Docker stack sendiri."
 tags: ["metabase", "postgresql", "dashboard", "data", "homelab"]
 ---
